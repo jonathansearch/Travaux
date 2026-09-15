@@ -1,0 +1,14 @@
+# RATISS Labs — garde-fou de base
+.env
+.env.local
+*.pem
+*.key
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
